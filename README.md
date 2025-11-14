@@ -8,7 +8,7 @@
 
 Here’s a quick look at the **Road Accident Analysis Dashboard** 👇
 
-![Demo](your-demo-video-or-image-link.gif)
+![Demo](PowerBI-road-accident.gif)
 
 ---
 
