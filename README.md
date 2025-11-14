@@ -2,7 +2,7 @@
 
 ---
 
-# 🚗 Road Accident Analysis Dashboard
+# 🚗 Road Accident Analysis Dashboard (Power BI)
 
 ## 🎥 Demo
 
