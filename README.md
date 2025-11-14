@@ -18,7 +18,7 @@ Here are some screenshots of the **Road Accident Analysis Dashboard** built in P
 
 ### Overview of Dashboard
 
-![Dashboard Overview](v1.png)
+![Dashboard Overview](v1.PNG)
 
 
 
